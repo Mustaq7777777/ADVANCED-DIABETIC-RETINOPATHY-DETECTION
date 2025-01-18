@@ -1,0 +1,1 @@
+This project focuses on developing a Deep Learning-based system for the early detection and classification of Diabetic Retinopathy (DR) using retinal images. The approach leverages state-of-the-art architectures like ResNet50 and InceptionV3 for feature extraction and combines their strengths to build a robust classification model.
